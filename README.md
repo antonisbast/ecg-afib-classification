@@ -231,7 +231,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Antonis Bastoulis**  
-MSc in Artificial Intelligence  
+MSc in Artificial Intelligence and Deep Learning, University of West Attica  
 Course: AI in Healthcare and Biometrics (AIDL_B_CS02)
 
 ---
