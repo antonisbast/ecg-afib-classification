@@ -1,0 +1,25 @@
+# ECG-Based AFib Classification - Requirements
+# Python 3.8+
+
+# Core scientific computing
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+
+# Deep Learning
+tensorflow>=2.8.0
+
+# ECG Signal Processing
+wfdb>=4.0.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Jupyter (for running notebooks)
+jupyter>=1.0.0
+ipykernel>=6.0.0
